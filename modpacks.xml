@@ -1,13 +1,5 @@
 <modpacks>
-	<modpack 
-		name="MonsterPack" author="CheckMate" version="12" logo="logo_tc.png" url="CheckMateModPack.zip" image="logo_ftb.png" dir="MonsterPack" mcVersion="1.4.5" serverPack="CheckMateModPackServer.zip" 
-		description="Pacchetto perfetto a cui manca solo la red power -Anche Multiplayer-!!" 
-		mods="Minecraft Forge; Chickenbones Core; NEI; Rei's Minimap; Advanced Machines; Buildcraft; Computer Craft; Ender Storage; Extra Bees; ExtraBiomes XL; Factorization; Forestry; ForgeIRC; Gregtech; Industrial Craft; Inventory Tweaks; Iron Chests; Advanced Solar Panels; GraviSuite; Modular Forcefield System; Mystcraft; Obsidian Pressure Plates; Portal Gun; Railcraft; Steve's Carts; Thermal Expansion; Thaumcraft 3; Twilight Forest"
-	/>
-         <modpack 
-		name="MonsterPack 1.4.6" author="CheckMate" version="12" logo="logo_tc.png" url="CheckMate1.4.6.zip" image="logo_ftb.png" dir="MonsterPack1.4.6" mcVersion="1.4.6" serverPack="" 
-		description="-Anche Multiplayer-(tra poco)!!" 
-		mods="Minecraft Forge; Chickenbones Core; NEI; Rei's Minimap; Advanced Machines; Buildcraft; Computer Craft; Ender Storage;  Factorization; Forestry; Gregtech; Industrial Craft; Inventory Tweaks; Iron Chests; Advanced Solar Panels; GraviSuite; Modular Forcefield System;  Railcraft; Steve's Carts; Thermal Expansion; Thaumcraft 3; Red POwer 2"
-	/>
-
+<modpack changeloglink="[TC1.4.6/master][link]https://github.com/pupaxxo/TC1.4.6/commits/master" mods="CodeChickenCore; NEI; ReiMinimap; AdditionalPipes; AdvancedMachines; BuildCraft; ChickenChunks; ComputerCraft; ee3; EnderStorage; ExtraBiomesXL; Factorizazion; Forestry; IC2NuclearControl; IC2; ironchest; LogisitcsPipes; misPeripherals; AdvancedSolarPanels; GravSuite; MFFS; Railcraft; Redpower; StevesCarts; Thaumcraft; TwilightForest;" type="client/server" name="Tecnicamente1.4.6" info="ModPack 1.4.6 compatibile con le vecchie mappe :D" author="Pupaxxo" version="2" logo = "logop.png" url="https://nodeload.github.com/pupaxxo/TC1.4.6/zip/master" image="logo_new.png" dir="TC146" mcVersion="1.4.6" serverPack = "https://github.com/pupaxxo/TC1.4.6_Server/archive/master.zip"/>
+	<modpack changeloglink="[TC1.4.5/master][link]https://github.com/pupaxxo/TC1.4.5/wiki/Changelog" mods="AUTOMATICMODLIST; " type="client/server" name="TecnicamenteSMP1.4.5" info="Il migliore modpack di tutti i tempi!! Sempre aggiornato e sempre funzionante!!" author="Pupaxxo" version="5" logo = "logop.png" url="https://nodeload.github.com/pupaxxo/TC1.4.5/zip/master" image="logo_new.png" dir="TC145" mcVersion="1.4.5" serverPack = "https://github.com/pupaxxo/TC1.4.5_Server/archive/master.zip"/>	
+<modpack changeloglink="[TC1.4.2/master][link]https://github.com/pupaxxo/TC1.4.2/wiki/Changelog" mods="AUTOMATICMODLIST; " type="client" name="TecnicamenteSMP1.4.2" info="Added Tropicraft but changed some ID" author="Pupaxxo" version="8" logo = "logop.png" url2="TC1.4.2B8.zip" url="https://nodeload.github.com/pupaxxo/TC1.4.2/zip/master" image="logo_new.png" dir="TC142B1" mcVersion="1.4.2" serverPack = "null"/>	
 </modpacks>
